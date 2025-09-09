@@ -10,8 +10,8 @@ This repository contains example code and documentation for setting up and contr
 - Prepare for future extensions such as voice-controlled robotics using the onboard microphone and AI capabilities of the XIAO ESP32S3 Sense.
 
 **Hardware**
-- [Feetech STS3215 Serial Bus Servos](https://www.seeedstudio.com/Seeed-Studio-XIAO-ESP32S3-Sense-Pre-Soldered-p-6335.html)
-- [Feetech Bus Servo Driver Board](https://www.seeedstudio.com/Seeed-Studio-XIAO-ESP32S3-Sense-Pre-Soldered-p-6335.html)
+- [Feetech STS3215 Serial Bus Servos](https://www.seeedstudio.com/STS3215-19kg-cm-7-4V-Serial-Servo-p-6338.html)
+- [Feetech Bus Servo Driver Board](https://www.seeedstudio.com/Bus-Servo-Driver-Board-for-XIAO-p-6413.html)
   - Required to manage multiple servos on a single UART line by providing power distribution and ID assignment.
 - [Seeed Studio XIAO ESP32S3 Sense](https://www.seeedstudio.com/Seeed-Studio-XIAO-ESP32S3-Sense-Pre-Soldered-p-6335.html)
   - Acts as the main controller, provides Wi-Fi/Bluetooth connectivity, and includes onboard microphone and camera interface for future projects.
